@@ -1,0 +1,7 @@
+pageobjects\BasePageObject.class
+pageobjects\Blog.class
+pageobjects\Home.class
+tests\BaseTest.class
+pageobjects\Post.class
+webdrivermanager\DriverProvider.class
+tests\PostsTests.class
